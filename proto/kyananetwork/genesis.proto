@@ -1,0 +1,12 @@
+syntax = "proto3";
+package thelonely5798.kyananetwork.kyananetwork;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/thelonely5798/kyana-network/x/kyananetwork/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+}
+
